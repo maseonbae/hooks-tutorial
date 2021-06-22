@@ -10,7 +10,6 @@ const Counter = () => {
       <button onClick={() => setValue(value - 1)}>-1</button>
     </>
   );
-
 };
 
 export default Counter;
